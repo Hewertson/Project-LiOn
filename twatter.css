@@ -1,0 +1,35 @@
+body {
+	font-family: Arial, "Helvetica Neue", sans-serif;
+	text-size: medium;
+	background-image: url(images/background.gif);
+	line-height: 2em;
+	margin-left: 200px;
+	text-align: center;
+	font-style: italic;
+}
+
+h1 { 
+	text-size: 150%;
+	font-family: 
+}
+
+h3 {
+	text-size: 115%;
+}
+
+
+#sidebar {
+	position: fixed;
+	top: 25px;
+	left: 10px;
+	border: solid thin black;
+	padding: 10px;
+	padding-bottom: 225px;
+	text-align: left;
+}
+
+
+a:link {
+	text-decoration: none;
+}
+	
