@@ -1,12 +1,11 @@
 body {
+	background-image: url('Images/background.gif') no-repeat center center fixed;
 	font-family: Arial, "Helvetica Neue", sans-serif;
 	text-size: medium;
 	line-height: 2em;
 	margin-left: 200px;
 	text-align: center;
 	font-style: italic;
-	background-image: url('Images/background.gif') no-repeat center center fixed;
-	background-size: cover;
 }
 
 h1 { 
