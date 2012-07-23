@@ -1,6 +1,6 @@
 body {
 	background-image: url('Images/background.gif');
-	background: no-repeat center center fixed;
+	background-repeat: no-repeat;
 	background-size: cover;
 	font-family: Arial, "Helvetica Neue", sans-serif;
 	text-size: medium;
